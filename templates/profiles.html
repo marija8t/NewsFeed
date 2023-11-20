@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Profile</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='profiles.css') }}">
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile-header">
+            <h1>User Profile</h1>
+        </div>
+        {% if session %}
+        <div class="profile-picture">
+            <img src="{{ session.userinfo.picture }}" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
+        </div>
+        <ul class="profile-info">
+            <li><strong>Name:</strong> {{ session.userinfo.name }}</li>
+            <li><strong>Email:</strong> {{ session.userinfo.email }}</li>
+        </ul>
+        {% endif %}
+    </div>
+</body>   
+</html>
+

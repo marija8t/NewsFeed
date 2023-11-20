@@ -1,0 +1,44 @@
+/* Import the main styles */
+@import 'main.css';
+
+/* Additional styles for profiles.html */
+.profile-container {
+  background: #ffffff;
+  padding: 2rem;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  margin: 2rem auto;
+  max-width: 600px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-header {
+  background: #5f788a;
+  color: #ffffff;
+  padding: 1rem;
+  border-radius: 5px 5px 0 0;
+  margin: -2rem -2rem 2rem -2rem;
+}
+
+.profile-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-info li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.profile-info li:last-child {
+  border-bottom: none;
+}
+
+.profile-info strong {
+  color: #444444;
+  width: 100px;
+  display: inline-block;
+}
+
+

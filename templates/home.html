@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+{% block title %}News Feed{% endblock %}
+{% block content %}
+    {% for news in news_feed %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <p class="mr-2" href="#">{{ news.by }}</p>
+              <small class="text-muted">{{ news.time|datetimeformat('%Y-%m-%d') }}</small>
+            </div>
+            <h2><p class="article-title" href="#">{{ news.title }}</p></h2>
+            <a class="article-url" href="{{ news.url }}">{{ news.url }}</a>
+	    <div>
+                {% if session  %}
+		    <!-- Like Form -->
+                    <form action="{{ url_for('like_news_item', news_item_id=news.id) }}" method="post">
+                        <button type="submit" class="btn btn-success">Like</button>
+			<p>Total Likes: {{ news.likes }}</p>
+                    </form>
+
+                    <!-- Dislike Form -->
+                    <form action="{{ url_for('dislike_news_item', news_item_id=news.id) }}" method="post">
+                        <button type="submit" class="btn btn-danger">Dislike</button>
+			<p>Total Dislikes: {{ news.dislikes }}</p>
+                    </form>
+                {% else %}
+                <p><small>Login to like or dislike</small></p>
+                {% endif %}
+            </div>
+          </div>
+        </article>
+    {% endfor %}
+    <nav>
+      <ul class="pagination">
+        {% set page_links = 2 %} <!-- Number of page links to show before and after the current page -->
+
+        {% if current_page > 1 %}
+        <li class="page-item"><a class="page-link" href="{{ url_for('home', page=1) }}">First</a></li>
+        <li class="page-item"><a class="page-link" href="{{ url_for('home', page=current_page-1) }}">Previous</a></li>
+        {% endif %}
+
+        <!-- Show starting pages -->
+        {% for num in range(1, 3) %}
+          {% if num < current_page - page_links %}
+            <li class="page-item"><a class="page-link" href="{{ url_for('home', page=num) }}">{{ num }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Show ellipsis if there are pages between the starting pages and current page -->
+        {% if current_page - page_links > 3 %}
+          <li class="page-item disabled"><span class="page-link">...</span></li>
+        {% endif %}
+
+        <!-- Show page numbers around the current page -->
+        {% for num in range(current_page - page_links, current_page + page_links + 1) %}
+          {% if num > 0 and num <= total_pages %}
+            <li class="page-item {% if num == current_page %}active{% endif %}"><a class="page-link" href="{{ url_for('home', page=num) }}">{{ num }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Show ellipsis if there are pages between current page and last page -->
+        {% if current_page + page_links < total_pages - 2 %}
+          <li class="page-item disabled"><span class="page-link">...</span></li>
+        {% endif %}
+
+        <!-- Show ending pages -->
+        {% for num in range(total_pages - 1, total_pages + 1) %}
+          {% if num > current_page + page_links %}
+            <li class="page-item"><a class="page-link" href="{{ url_for('home', page=num) }}">{{ num }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+        {% if current_page < total_pages %}
+        <li class="page-item"><a class="page-link" href="{{ url_for('home', page=current_page+1) }}">Next</a></li>
+        <li class="page-item"><a class="page-link" href="{{ url_for('home', page=total_pages) }}">Last</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+{% endblock content %}

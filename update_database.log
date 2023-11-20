@@ -1,0 +1,1555 @@
+
+2023-11-19 20:16:49,404:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:16:55,249:ERROR:User with email None not found in add_like_dislike
+2023-11-19 20:16:55,249:ERROR:Failed to add like/dislike for user None
+2023-11-19 20:24:53,419:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:24:55,563:ERROR:User with email None not found in add_like_dislike
+2023-11-19 20:24:55,563:ERROR:Failed to add like/dislike for user None
+2023-11-19 20:27:47,253:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:27:49,892:ERROR:User email not found in session.
+2023-11-19 20:27:51,650:ERROR:User email not found in session.
+2023-11-19 20:32:03,595:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:32:05,767:ERROR:User email not found in session.
+2023-11-19 20:32:07,172:ERROR:User email not found in session.
+2023-11-19 20:36:45,212:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:36:47,342:ERROR:User email not found in session.
+2023-11-19 20:36:49,666:ERROR:User email not found in session.
+2023-11-19 20:38:40,441:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:38:43,800:ERROR:User email, {user_email},  not found in session.
+2023-11-19 20:38:45,382:ERROR:User email, {user_email},  not found in session.
+2023-11-19 20:47:09,725:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:47:11,838:ERROR:User email, {user_email},  not found in session.
+2023-11-19 20:47:13,236:ERROR:User email, {user_email},  not found in session.
+2023-11-19 20:49:44,911:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:49:47,478:ERROR:User email, {user_email},  not found in session.
+2023-11-19 20:49:48,937:ERROR:User email, {user_email},  not found in session.
+2023-11-19 20:52:15,736:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:52:18,537:ERROR:User email, {email},  not found in session.
+2023-11-19 20:52:19,690:ERROR:User email, {email},  not found in session.
+2023-11-19 20:54:51,200:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:54:53,788:ERROR:User email, {email},  not found in session.
+2023-11-19 20:57:01,280:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 20:57:03,659:ERROR:User email, {email},  not found in session.
+2023-11-19 20:57:06,793:ERROR:User email, {email},  not found in session.
+2023-11-19 21:06:19,152:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 21:06:22,004:INFO:adding add_like_dislike
+2023-11-19 21:06:22,004:ERROR:adding add_like_dislike
+2023-11-19 21:06:22,004:INFO:User with email found in add_like_dislike
+2023-11-19 21:06:22,004:ERROR:User with email found in add_like_dislike
+2023-11-19 21:06:27,317:INFO:adding add_like_dislike
+2023-11-19 21:06:27,317:ERROR:adding add_like_dislike
+2023-11-19 21:06:27,317:INFO:User with email found in add_like_dislike
+2023-11-19 21:06:27,317:ERROR:User with email found in add_like_dislike
+2023-11-19 21:06:31,002:INFO:exists
+2023-11-19 21:06:31,002:INFO:User with email found in add_like_dislike
+2023-11-19 21:06:31,002:ERROR:User with email found in add_like_dislike
+2023-11-19 21:06:35,401:INFO:exists
+2023-11-19 21:06:35,402:INFO:User with email found in add_like_dislike
+2023-11-19 21:06:35,402:ERROR:User with email found in add_like_dislike
+2023-11-19 21:06:51,710:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-19 21:06:53,860:INFO:adding add_like_dislike
+2023-11-19 21:06:53,861:ERROR:adding add_like_dislike
+2023-11-19 21:06:53,861:INFO:User with email found in add_like_dislike
+2023-11-19 21:06:53,861:ERROR:User with email found in add_like_dislike
+2023-11-19 21:07:01,477:INFO:exists
+2023-11-19 21:07:01,477:INFO:User with email found in add_like_dislike
+2023-11-19 21:07:01,477:ERROR:User with email found in add_like_dislike
+2023-11-19 21:07:03,336:INFO:exists
+2023-11-19 21:07:03,337:INFO:User with email found in add_like_dislike
+2023-11-19 21:07:03,337:ERROR:User with email found in add_like_dislike
+2023-11-19 21:11:28,959:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-19 21:15:03,015:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 21:17:53,088:INFO:exists
+2023-11-19 21:17:53,088:INFO:User with email found in add_like_dislike
+2023-11-19 21:17:53,088:ERROR:User with email found in add_like_dislike
+2023-11-19 21:17:54,364:INFO:exists
+2023-11-19 21:17:54,365:INFO:User with email found in add_like_dislike
+2023-11-19 21:17:54,365:ERROR:User with email found in add_like_dislike
+2023-11-19 21:17:55,579:INFO:exists
+2023-11-19 21:17:55,580:INFO:User with email found in add_like_dislike
+2023-11-19 21:17:55,580:ERROR:User with email found in add_like_dislike
+2023-11-19 21:17:58,390:INFO:adding add_like_dislike
+2023-11-19 21:17:58,390:ERROR:adding add_like_dislike
+2023-11-19 21:17:58,390:INFO:User with email found in add_like_dislike
+2023-11-19 21:17:58,390:ERROR:User with email found in add_like_dislike
+2023-11-19 21:31:20,193:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 162, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 46, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 48, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:31:28,017:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 162, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 46, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 48, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:34:35,724:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 162, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 46, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 48, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:34:43,488:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 162, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 46, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 48, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:37:29,160:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 155, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 39, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 41, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:37:31,484:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 155, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 39, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 41, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:41:16,587:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 21:41:19,714:INFO:adding add_like_dislike
+2023-11-19 21:41:19,714:ERROR:adding add_like_dislike
+2023-11-19 21:41:19,714:INFO:User with email found in add_like_dislike
+2023-11-19 21:41:19,714:ERROR:User with email found in add_like_dislike
+2023-11-19 21:41:21,689:INFO:exists
+2023-11-19 21:41:21,689:INFO:User with email found in add_like_dislike
+2023-11-19 21:41:21,689:ERROR:User with email found in add_like_dislike
+2023-11-19 21:41:22,731:INFO:exists
+2023-11-19 21:41:22,732:INFO:User with email found in add_like_dislike
+2023-11-19 21:41:22,732:ERROR:User with email found in add_like_dislike
+2023-11-19 21:45:08,839:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 168, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 52, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 54, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:45:11,367:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 202, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 141, in _key_fallback
+    raise KeyError(key) from err
+KeyError: 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 168, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 52, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 54, in <listcomp>
+    'id': news_item.id,
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 60, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 57, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/result.py", line 204, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: id
+2023-11-19 21:53:40,032:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 171, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 40, in get_home_feed
+    func.sum(case([(LikesAndDislikes.like == True, 1)], else_=0)).label('total_likes'),
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 3390, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+2023-11-19 21:53:42,206:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 171, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 40, in get_home_feed
+    func.sum(case([(LikesAndDislikes.like == True, 1)], else_=0)).label('total_likes'),
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 3390, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+2023-11-19 21:57:41,751:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 172, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 40, in get_home_feed
+    func.sum(case([(LikesAndDislikes.like == True, 1)], else_=0)).label('total_likes'),
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 3390, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+2023-11-19 21:57:45,213:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 172, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 40, in get_home_feed
+    func.sum(case([(LikesAndDislikes.like == True, 1)], else_=0)).label('total_likes'),
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 3390, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+2023-11-19 21:57:48,806:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 172, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 40, in get_home_feed
+    func.sum(case([(LikesAndDislikes.like == True, 1)], else_=0)).label('total_likes'),
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 3390, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+2023-11-19 22:01:02,326:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 154, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 38, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 40, in <listcomp>
+    'id': news_item.id,
+NameError: free variable 'news_item' referenced before assignment in enclosing scope
+2023-11-19 22:01:04,446:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 154, in home
+    news_feed, total  = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 38, in get_home_feed
+    news_list = [
+  File "/home/marija8t/project_part2/app.py", line 40, in <listcomp>
+    'id': news_item.id,
+NameError: free variable 'news_item' referenced before assignment in enclosing scope
+2023-11-19 22:02:11,573:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:02:14,875:INFO:adding add_like_dislike
+2023-11-19 22:02:14,876:ERROR:adding add_like_dislike
+2023-11-19 22:02:14,876:INFO:User with email found in add_like_dislike
+2023-11-19 22:02:14,876:ERROR:User with email found in add_like_dislike
+2023-11-19 22:02:16,279:INFO:exists
+2023-11-19 22:02:16,279:INFO:User with email found in add_like_dislike
+2023-11-19 22:02:16,279:ERROR:User with email found in add_like_dislike
+2023-11-19 22:13:28,865:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:13:31,954:INFO:exists
+2023-11-19 22:13:31,954:INFO:User with email found in add_like_dislike
+2023-11-19 22:13:31,954:ERROR:User with email found in add_like_dislike
+2023-11-19 22:13:33,320:INFO:exists
+2023-11-19 22:13:33,320:INFO:User with email found in add_like_dislike
+2023-11-19 22:13:33,320:ERROR:User with email found in add_like_dislike
+2023-11-19 22:15:20,975:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-19 22:23:26,573:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:23:29,259:INFO:exists
+2023-11-19 22:23:29,259:INFO:User with email found in add_like_dislike
+2023-11-19 22:23:29,259:ERROR:User with email found in add_like_dislike
+2023-11-19 22:23:31,535:INFO:exists
+2023-11-19 22:23:31,535:INFO:User with email found in add_like_dislike
+2023-11-19 22:23:31,535:ERROR:User with email found in add_like_dislike
+2023-11-19 22:24:05,674:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:31:12,426:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:31:12,427:ERROR:Exception on /callback [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 157, in callback
+    session['user']['admin'] = user_details.get('admin', False)
+NameError: name 'user_details' is not defined
+2023-11-19 22:31:17,641:ERROR:Exception on /callback [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 147, in callback
+    token = oauth.auth0.authorize_access_token()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/authlib/integrations/flask_client/apps.py", line 100, in authorize_access_token
+    params = self._format_state_params(state_data, params)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/authlib/integrations/base_client/sync_app.py", line 234, in _format_state_params
+    raise MismatchingStateError()
+authlib.integrations.base_client.errors.MismatchingStateError: mismatching_state: CSRF Warning! State not equal in request and response.
+2023-11-19 22:32:19,624:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:32:19,673:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:32:25,207:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:33:31,035:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:33:31,063:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:33:33,285:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:33:39,295:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 183, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 22:35:08,847:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:35:13,104:INFO:adding add_like_dislike
+2023-11-19 22:35:13,104:ERROR:adding add_like_dislike
+2023-11-19 22:35:13,105:INFO:User with email found in add_like_dislike
+2023-11-19 22:35:13,105:ERROR:User with email found in add_like_dislike
+2023-11-19 22:35:14,179:INFO:exists
+2023-11-19 22:35:14,179:INFO:User with email found in add_like_dislike
+2023-11-19 22:35:14,179:ERROR:User with email found in add_like_dislike
+2023-11-19 22:39:37,362:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:39:40,371:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 117, in admin
+    if 'user' not in session or not session.get('user').get('admin'):
+UnboundLocalError: local variable 'session' referenced before assignment
+2023-11-19 22:43:06,911:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-19 22:43:26,480:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:43:32,196:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 117, in admin
+    if 'user' not in session or not session.get('user').get('admin'):
+UnboundLocalError: local variable 'session' referenced before assignment
+2023-11-19 22:44:17,668:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:44:30,929:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-19 22:52:33,237:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:52:33,295:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 189, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user_info.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user_info'
+2023-11-19 22:53:48,866:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 189, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user_info.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user_info'
+2023-11-19 22:53:50,557:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 189, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user_info.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user_info'
+2023-11-19 22:53:51,421:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 189, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user_info.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user_info'
+2023-11-19 22:53:51,578:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 189, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user_info.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user_info'
+2023-11-19 22:53:51,774:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 189, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user_info.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user_info'
+2023-11-19 22:55:46,563:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 22:55:51,520:INFO:adding add_like_dislike
+2023-11-19 22:55:51,520:ERROR:adding add_like_dislike
+2023-11-19 22:55:51,520:INFO:User with email found in add_like_dislike
+2023-11-19 22:55:51,520:ERROR:User with email found in add_like_dislike
+2023-11-19 22:55:52,492:INFO:exists
+2023-11-19 22:55:52,493:INFO:User with email found in add_like_dislike
+2023-11-19 22:55:52,493:ERROR:User with email found in add_like_dislike
+2023-11-19 23:01:05,884:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:01:06,072:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 187, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session['user']['admin'] %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 466, in getitem
+    return obj[argument]
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:02:45,189:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 186, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session['user']['admin'] %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 466, in getitem
+    return obj[argument]
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:11:14,263:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:11:19,804:INFO:exists
+2023-11-19 23:11:19,804:INFO:User with email found in add_like_dislike
+2023-11-19 23:11:19,804:ERROR:User with email found in add_like_dislike
+2023-11-19 23:11:21,178:INFO:exists
+2023-11-19 23:11:21,178:INFO:User with email found in add_like_dislike
+2023-11-19 23:11:21,178:ERROR:User with email found in add_like_dislike
+2023-11-19 23:13:37,827:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:13:38,060:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 190, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session['user'].get('admin') %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:14:51,496:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:14:55,155:INFO:exists
+2023-11-19 23:14:55,156:INFO:User with email found in add_like_dislike
+2023-11-19 23:14:55,156:ERROR:User with email found in add_like_dislike
+2023-11-19 23:14:56,586:INFO:exists
+2023-11-19 23:14:56,586:INFO:User with email found in add_like_dislike
+2023-11-19 23:14:56,586:ERROR:User with email found in add_like_dislike
+2023-11-19 23:16:55,922:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:17:00,427:INFO:exists
+2023-11-19 23:17:00,427:INFO:User with email found in add_like_dislike
+2023-11-19 23:17:00,427:ERROR:User with email found in add_like_dislike
+2023-11-19 23:17:01,904:INFO:exists
+2023-11-19 23:17:01,904:INFO:User with email found in add_like_dislike
+2023-11-19 23:17:01,904:ERROR:User with email found in add_like_dislike
+2023-11-19 23:22:23,412:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:22:26,547:INFO:exists
+2023-11-19 23:22:26,547:INFO:User with email found in add_like_dislike
+2023-11-19 23:22:26,547:ERROR:User with email found in add_like_dislike
+2023-11-19 23:22:27,230:INFO:exists
+2023-11-19 23:22:27,231:INFO:User with email found in add_like_dislike
+2023-11-19 23:22:27,231:ERROR:User with email found in add_like_dislike
+2023-11-19 23:25:37,786:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:25:41,070:INFO:exists
+2023-11-19 23:25:41,070:INFO:User with email found in add_like_dislike
+2023-11-19 23:25:41,070:ERROR:User with email found in add_like_dislike
+2023-11-19 23:25:42,041:INFO:exists
+2023-11-19 23:25:42,041:INFO:User with email found in add_like_dislike
+2023-11-19 23:25:42,041:ERROR:User with email found in add_like_dislike
+2023-11-19 23:31:29,950:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:31:30,031:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:32:59,895:INFO:adding add_like_dislike
+2023-11-19 23:32:59,895:ERROR:adding add_like_dislike
+2023-11-19 23:32:59,895:INFO:User with email found in add_like_dislike
+2023-11-19 23:32:59,895:ERROR:User with email found in add_like_dislike
+2023-11-19 23:32:59,954:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:03,617:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,038:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,233:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,400:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,554:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,682:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,826:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:33:04,977:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session.user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:34:26,346:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 197, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if user.admin %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'user' is undefined
+2023-11-19 23:35:25,951:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:35:30,269:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-19 23:36:18,464:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 123, in admin
+    if 'user' not in session or not session.get('user').get('admin'):
+UnboundLocalError: local variable 'session' referenced before assignment
+2023-11-19 23:37:54,604:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:37:56,121:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 123, in admin
+    if 'user' not in session or not session.get('admin'):
+UnboundLocalError: local variable 'session' referenced before assignment
+2023-11-19 23:41:25,731:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:41:27,989:INFO:adding add_like_dislike
+2023-11-19 23:41:27,989:ERROR:adding add_like_dislike
+2023-11-19 23:41:27,990:INFO:User with email found in add_like_dislike
+2023-11-19 23:41:27,990:ERROR:User with email found in add_like_dislike
+2023-11-19 23:41:28,850:INFO:exists
+2023-11-19 23:41:28,851:INFO:User with email found in add_like_dislike
+2023-11-19 23:41:28,851:ERROR:User with email found in add_like_dislike
+2023-11-19 23:41:30,611:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 131, in admin
+    return render_template('admin.html', users=users)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/admin.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 34, in top-level template code
+    <h1>Welcome {{session.userinfo.name}}!</h1>
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'flask.sessions.SecureCookieSession object' has no attribute 'userinfo'
+2023-11-19 23:46:55,000:ERROR:Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 198, in home
+    return render_template('home.html', news_feed=news_feed, total_pages=total_pages, current_page=page, session=session.get('user'), pretty=json.dumps(session.get('user'), indent=4))
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/home.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 37, in top-level template code
+    {% if session['user'].get('admin') %} <!-- Check if user is admin -->
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'user'
+2023-11-19 23:50:16,815:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 131, in admin
+    return render_template('admin.html', users=users)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/admin.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/marija8t/project_part2/templates/layout.html", line 34, in top-level template code
+    <h1>Welcome {{session.userinfo.name}}!</h1>
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'flask.sessions.SecureCookieSession object' has no attribute 'userinfo'
+2023-11-19 23:52:43,681:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:56:27,930:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-19 23:56:29,659:INFO:adding add_like_dislike
+2023-11-19 23:56:29,659:ERROR:adding add_like_dislike
+2023-11-19 23:56:29,659:INFO:User with email found in add_like_dislike
+2023-11-19 23:56:29,659:ERROR:User with email found in add_like_dislike
+2023-11-19 23:56:30,409:INFO:exists
+2023-11-19 23:56:30,409:INFO:User with email found in add_like_dislike
+2023-11-19 23:56:30,409:ERROR:User with email found in add_like_dislike
+2023-11-19 23:56:32,800:INFO:exists
+2023-11-19 23:56:32,801:INFO:User with email found in add_like_dislike
+2023-11-19 23:56:32,801:ERROR:User with email found in add_like_dislike
+2023-11-19 23:56:35,093:INFO:exists
+2023-11-19 23:56:35,094:INFO:User with email found in add_like_dislike
+2023-11-19 23:56:35,094:ERROR:User with email found in add_like_dislike
+2023-11-19 23:57:06,420:INFO:User with email tigerw2002@gmail.com already exists. Skipping insertion.
+2023-11-20 00:21:25,541:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 00:21:33,638:INFO:exists
+2023-11-20 00:21:33,638:INFO:User with email found in add_like_dislike
+2023-11-20 00:21:33,638:ERROR:User with email found in add_like_dislike
+2023-11-20 00:42:30,884:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 00:42:35,868:INFO:exists
+2023-11-20 00:42:35,868:INFO:User with email found in add_like_dislike
+2023-11-20 00:42:35,868:ERROR:User with email found in add_like_dislike
+2023-11-20 00:42:43,290:INFO:exists
+2023-11-20 00:42:43,290:INFO:User with email found in add_like_dislike
+2023-11-20 00:42:43,290:ERROR:User with email found in add_like_dislike
+2023-11-20 00:43:12,539:INFO:exists
+2023-11-20 00:43:12,539:INFO:User with email found in add_like_dislike
+2023-11-20 00:43:12,539:ERROR:User with email found in add_like_dislike
+2023-11-20 12:13:23,934:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 12:13:49,629:INFO:exists
+2023-11-20 12:13:49,629:INFO:User with email found in add_like_dislike
+2023-11-20 12:13:49,629:ERROR:User with email found in add_like_dislike
+2023-11-20 12:13:58,899:INFO:exists
+2023-11-20 12:13:58,903:INFO:User with email found in add_like_dislike
+2023-11-20 12:13:58,903:ERROR:User with email found in add_like_dislike
+2023-11-20 12:38:46,034:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 12:38:51,725:ERROR:Exception on /admin [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 153, in admin
+    return render_template('admin.html', users=users)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 152, in render_template
+    return _render(app, template, context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/templating.py", line 133, in _render
+    rv = template.render(context)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/jinja2/environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/marija8t/project_part2/templates/admin.html", line 49, in top-level template code
+    <form action="{{ url_for('delete_user', user_id=user.id) }}" method="POST">
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1071, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1060, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/werkzeug/routing/map.py", line 919, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'delete_user' with values ['user_id']. Did you mean 'dislike_news_item' instead?
+2023-11-20 12:42:25,707:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 12:54:14,653:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 13:07:09,460:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 13:22:41,210:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 13:25:50,077:INFO:New user added with username Test Test.
+2023-11-20 13:25:50,077:INFO:1 users saved to the database at 2023-11-20 13:25:50.077209
+2023-11-20 13:25:59,581:INFO:adding add_like_dislike
+2023-11-20 13:25:59,581:ERROR:adding add_like_dislike
+2023-11-20 13:25:59,582:INFO:User with email found in add_like_dislike
+2023-11-20 13:25:59,582:ERROR:User with email found in add_like_dislike
+2023-11-20 13:26:21,201:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 13:29:01,552:INFO:New user added with username Test Test.
+2023-11-20 13:29:01,552:INFO:1 users saved to the database at 2023-11-20 13:29:01.552429
+2023-11-20 13:29:04,149:INFO:adding add_like_dislike
+2023-11-20 13:29:04,150:ERROR:adding add_like_dislike
+2023-11-20 13:29:04,150:INFO:User with email found in add_like_dislike
+2023-11-20 13:29:04,150:ERROR:User with email found in add_like_dislike
+2023-11-20 13:29:20,351:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 18:14:24,064:INFO:New user added with username Test Test.
+2023-11-20 18:14:24,064:INFO:1 users saved to the database at 2023-11-20 18:14:24.064767
+2023-11-20 18:14:34,077:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 18:14:42,558:INFO:exists
+2023-11-20 18:14:42,558:INFO:User with email found in add_like_dislike
+2023-11-20 18:14:42,558:ERROR:User with email found in add_like_dislike
+2023-11-20 18:14:49,748:INFO:adding add_like_dislike
+2023-11-20 18:14:49,748:ERROR:adding add_like_dislike
+2023-11-20 18:14:49,748:INFO:User with email found in add_like_dislike
+2023-11-20 18:14:49,748:ERROR:User with email found in add_like_dislike
+2023-11-20 18:31:39,020:INFO:User with email marija8t@gmail.com already exists. Skipping insertion.
+2023-11-20 18:31:47,686:INFO:exists
+2023-11-20 18:31:47,687:INFO:User with email found in add_like_dislike
+2023-11-20 18:31:47,687:ERROR:User with email found in add_like_dislike
