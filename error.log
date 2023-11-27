@@ -109,3 +109,23 @@ Traceback (most recent call last):
   File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/werkzeug/routing/map.py", line 919, in build
     raise BuildError(endpoint, values, method, self)
 werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'delete_user' with values ['user_id']. Did you mean 'dislike_news_item' instead?
+Non-admin or unauthenticated user attempted to access admin page.
+User test@example.com not found.
+User not in session.
+User not in session.
+Non-admin or unauthenticated user attempted to access admin page.
+User test@example.com not found.
+User not in session.
+User not in session.
+Non-admin or unauthenticated user attempted to access admin page.
+User test@example.com not found.
+User not in session.
+User not in session.
+Non-admin or unauthenticated user attempted to access admin page.
+User test@example.com not found.
+User not in session.
+User not in session.
+Non-admin or unauthenticated user attempted to access admin page.
+User test@example.com not found.
+User not in session.
+User not in session.
