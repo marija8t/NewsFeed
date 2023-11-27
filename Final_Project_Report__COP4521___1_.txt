@@ -1,0 +1,29 @@
+﻿Name: Marija Travoric | FSUID: mt20e
+GitLab Link: GitLab Link
+Video Link:
+Final Project Report
+1st December 2023
+Introduction
+This project is centered on creating a web application using Python that consolidates and presents news from the Hacker News portal. The application comes equipped with fundamental features such as Registration/Sign-In, a News Feed, User Profiles, and an Administrative panel. A distinctive feature of the platform is the implementation of 'Like' and 'Dislike' options for individual news stories, which play a role in determining the prominence of popular stories within the feed. To assure user security, the application integrates Auth0, ensuring robust authentication processes. The objective of this project is to deliver a smooth and engaging news reading experience, demonstrating the versatility of Python in crafting web-based applications.
+Project Description
+This project develops a web application to aggregate and display content from Hacker News, aiming to create an engaging central platform with an easy-to-navigate interface. Utilizing Python's Flask framework for its simplicity and performance, we've ensured a responsive user experience. To maintain up-to-date content, we implemented a cron job that regularly fetches new articles from the Hacker News API. Additionally, we've integrated Auth0 for secure user authentication, enabling straightforward signup and login with Google email, thereby enhancing both convenience and security.
+Project Features
+Cron Job: A cron job has been established to regularly retrieve the latest articles from the Hacker News API and update the SQLite database every hour.
+News Feed (Access and Display): All users can access the News Feed, which showcases the most recent articles sourced from Hacker News.
+Pagination and Sorting: Articles on the News Feed are presented in pages and arranged by their timestamp and popularity based on likes and dislikes for improved navigability.
+User Authentication (Auth0): Identity Validation: Auth0 is integrated for secure identity verification of users.
+Web Application Framework (Flask Framework): The Flask framework underpins the project, known for its versatility and ease of use.
+Web Application Server (Gunicorn Server): Gunicorn is selected for its straightforward setup and capable concurrent request handling.
+Web Server (Nginx Deployment): The Flask application is deployed with Nginx due to its superior performance and reliability.
+Sign Up/Login: Separate, streamlined pages for Sign Up and Login facilitate an effortless user entry and authentication experience.
+User Profile: A dedicated profile page is available for users to manage and personalize their account settings.
+Admin View/ Admin Features: Administrative functionalities have been incorporated to manage and remove news articles, user accounts, and associated interactions.
+Security and Configuration (HTTPS and SSH): Nginx is configured to enforce HTTPS, with restricted HTTP access, and SSH is secured through public key authentication only.
+Mozilla Observatory Report: A security report is generated using Mozilla Observatory to assess the application's safety features.
+GitLab Repository Privacy: The GitLab repository is kept private, with access granted only via the grader’s SSH key to maintain confidentiality and control.
+Firewall Testing/ UFW Configuration: The Uncomplicated Firewall (UFW) is set up to protect open ports and allows only pre-approved IP addresses.
+Secure Web Application Tools
+Robust Authentication: Integrated Auth0 into Flask for solid user identity verification.
+Core Framework: Employed Flask for the main structure of the web application.
+Application Server: Selected Gunicorn for its efficient web application serving capabilities.
+Deployment Server: Utilized Nginx for deploying the application due to its performance and stability.
