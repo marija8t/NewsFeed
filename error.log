@@ -129,3 +129,178 @@ Non-admin or unauthenticated user attempted to access admin page.
 User test@example.com not found.
 User not in session.
 User not in session.
+Exception on /page/1 [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 394, in home
+    news_feed, total = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 104, in get_home_feed
+    latest_news_paginated = latest_news_query.offset(offset).limit(per_page).all()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2693, in all
+    return self._iter().all()  # type: ignore
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2847, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2308, in execute
+    return self._execute_internal(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2180, in _execute_internal
+    conn = self._connection_for_bind(bind)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2047, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1143, in _connection_for_bind
+    conn = bind.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3268, in connect
+    return self._connection_cls(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 145, in __init__
+    self._dbapi_connection = engine.raw_connection()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3292, in raw_connection
+    return self.pool.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 452, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 1269, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 716, in checkout
+    rec = pool._do_get()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 158, in _do_get
+    raise exc.TimeoutError(
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 394, in home
+    news_feed, total = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 104, in get_home_feed
+    latest_news_paginated = latest_news_query.offset(offset).limit(per_page).all()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2693, in all
+    return self._iter().all()  # type: ignore
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2847, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2308, in execute
+    return self._execute_internal(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2180, in _execute_internal
+    conn = self._connection_for_bind(bind)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2047, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1143, in _connection_for_bind
+    conn = bind.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3268, in connect
+    return self._connection_cls(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 145, in __init__
+    self._dbapi_connection = engine.raw_connection()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3292, in raw_connection
+    return self.pool.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 452, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 1269, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 716, in checkout
+    rec = pool._do_get()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 158, in _do_get
+    raise exc.TimeoutError(
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 394, in home
+    news_feed, total = get_home_feed(page)
+  File "/home/marija8t/project_part2/app.py", line 104, in get_home_feed
+    latest_news_paginated = latest_news_query.offset(offset).limit(per_page).all()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2693, in all
+    return self._iter().all()  # type: ignore
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2847, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2308, in execute
+    return self._execute_internal(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2180, in _execute_internal
+    conn = self._connection_for_bind(bind)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2047, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1143, in _connection_for_bind
+    conn = bind.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3268, in connect
+    return self._connection_cls(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 145, in __init__
+    self._dbapi_connection = engine.raw_connection()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3292, in raw_connection
+    return self.pool.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 452, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 1269, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 716, in checkout
+    rec = pool._do_get()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 158, in _do_get
+    raise exc.TimeoutError(
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+Exception on /newsfeed [GET]
+Traceback (most recent call last):
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/marija8t/project_part2/app.py", line 417, in get_news_feed
+    latest_news = session.query(NewsItem).order_by(NewsItem.id.desc()).limit(30).all()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2693, in all
+    return self._iter().all()  # type: ignore
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2847, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2308, in execute
+    return self._execute_internal(
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2180, in _execute_internal
+    conn = self._connection_for_bind(bind)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2047, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1143, in _connection_for_bind
+    conn = bind.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3268, in connect
+    return self._connection_cls(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 145, in __init__
+    self._dbapi_connection = engine.raw_connection()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 3292, in raw_connection
+    return self.pool.connect()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 452, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 1269, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/base.py", line 716, in checkout
+    rec = pool._do_get()
+  File "/home/marija8t/project_part2/venv/lib/python3.8/site-packages/sqlalchemy/pool/impl.py", line 158, in _do_get
+    raise exc.TimeoutError(
+sqlalchemy.exc.TimeoutError: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r)
+Non-admin or unauthenticated user attempted to access admin page.
