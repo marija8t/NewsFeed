@@ -1,6 +1,7 @@
 Name: Marija Travoric | FSUID: mt20e
 GitLab Link: GitLab Link
-Video Link:
+Video Link: https://youtu.be/06Gea3hWgGQ
+Mozilla Score:  B       |   Pylint Score: 9.43 and 8.86      |    Pytest Score: 60%
 Final Project Report
 1st December 2023
 Introduction
